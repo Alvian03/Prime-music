@@ -11,7 +11,7 @@
 * Global, Users, Chats Top 10 played tracks stats
 * Multi-Language support
 
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/OkOOC3?referralCode=rg4eyb)
 # 🔗 An Overview
 
 Here's a brief high-level overview of the Yukki Music Bot:
