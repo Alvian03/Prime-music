@@ -44,7 +44,7 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Zona Virtual Music Bot")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5667516788").split())
+    map(int, getenv("OWNER_ID", "5773502882").split())
 )  # Input type must be interger
 
 # JANGAN HAPUS YA KONTOL
@@ -70,10 +70,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", None
+    "SUPPORT_CHANNEL", "https://t.me/gausahkepoanjc"
 )  # Example:- https://t.me/gausahkepoanjc
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", None
+    "SUPPORT_GROUP", "https://t.me/famsyour_frend"
 )  # Example:- https://t.me/famsyour_frend
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
