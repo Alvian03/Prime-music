@@ -40,7 +40,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001827529339"))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Durex Music Bot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","DurexRobot")
 
 # Your User ID.
 OWNER_ID = list(
@@ -140,7 +140,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION1", "BQBhI5GJKfkIvJfD65lvu4vLQXNFd6VtqEOOoKXT4mVYRQ1MZ7uIJxkIxSeh5KL1P6corzm8nYVw3DBY2cvtLponu6OOX31v1QwTpGw3lr_VEMRST6TD_XyHrSo2QSL1J1EAr6Lpvt1b8mC97UheAH3-GpTxmx0j-9GMsmg4ZQsp1hlYp3Tg-jb93cBW2bbK4NDz1QWgRhHr7ba5cFSi2HSSeDb-PZvMFvIhe1_hlqCQ0PsSVLYRQMvnYqGVv25diCl1b6o4Yt2T99NB1jeo93o098N4qtjooeLAoHizZBp0ACUFEZFzeDIjRfSKw3riG7iOMQOp8CleANNyAKEhO1C5AAAAAVHPcXQA")
+STRING1 = getenv("STRING_SESSION1", "BQAxbZxbRv_rsRiHrSvcz57uQ1nwmxXDM4cAxO1jJFi8mAOGQJeyt3AGeVs7aSck6HJtwc1L2iIyw8TacMKu20JfLWf-J8NhaY5LxOzsCGmqaNfrKTC9Pa0gra2WEqFmRJwdTzAaXAf3gNaKc7odRTUEObouKhfF7j_darec1rhU_OXraC_TcQmq7uyH9z_iKur5QGOc_35N5mQxGqw2PWRzbPUxP8yiEhtNxhjqGweWuqYJEnbZYwZPjKJSIaWWdE7dO6u6XXrN_2ZA3UJ65Xenj6BRhBbv_shPPVZ6SCzKcaGAHqsyq-Rrwnt-1foNLkCaPKcBOvSvpYW2KIm2_Ds0AAAAAVHPcXQA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
